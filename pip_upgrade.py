@@ -1,3 +1,9 @@
+#the code to upgrade PIP using a simple tool I created.
+
+#Note that you’ll need to add Python to Windows path in order to start using the tool.
+
+#Here is the complete Python code.Now Simply run the code, and then press on the button ‘Upgrade PIP’ and you should be good to go.
+
 import os
 import tkinter as tk
 
