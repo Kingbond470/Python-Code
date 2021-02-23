@@ -26,3 +26,10 @@ The ImageFilter module contains definitions for a pre-defined set of filters, wh
 5️⃣ ENHANCE MORE
 
 ![PIL/Output_Image/Edge_enhance_more](PIL/Output_Image/edge_enhance_more.png)
+
+
+Time Complexities for Algorithms
+
+![Big-O Complexity Chart](https://prepinsta.com/wp-content/uploads/2020/08/Time-complexity-for-Placements-2-768x505.png)
+
+![Array Sorting Algorithms](https://prepinsta.com/wp-content/uploads/2020/08/Time-complexity-for-Placements-3.png)
