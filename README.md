@@ -33,3 +33,5 @@ Time Complexities for Algorithms
 ![Big-O Complexity Chart](https://prepinsta.com/wp-content/uploads/2020/08/Time-complexity-for-Placements-2-768x505.png)
 
 ![Array Sorting Algorithms](https://prepinsta.com/wp-content/uploads/2020/08/Time-complexity-for-Placements-3.png)
+
+![Common Data Structure Operations](https://prepinsta.com/wp-content/uploads/2020/08/Time-complexity-for-Placements-1-768x428.png)
